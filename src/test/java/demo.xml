@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE app[
+	<!ELEMENT app (a,b*)>
+	<!ATTLIST app id ID #REQUIRED>
+	<!ATTLIST a att (A|B|C) #REQUIRED>
+	<!ATTLIST b battr CDATA #IMPLIED>
+]>
+<app id="_3">
+	<a att="B"></a>
+	<b battr="test" />
+	<b></b>
+</app>

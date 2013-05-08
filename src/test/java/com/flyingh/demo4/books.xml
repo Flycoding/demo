@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><books>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
 	<book id="1">
 		<name>Java</name>
 		<author>ABC</author>
 		<price>88</price>
 	</book>
-	<book>
+	<book id="2">
 		<name>Android</name>
 		<author>CBA</author>
 		<price>85</price>

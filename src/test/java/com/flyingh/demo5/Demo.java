@@ -4,8 +4,8 @@ import org.junit.Test;
 
 public class Demo {
 
-	private static final int M = 3;
-	private static final int N = 9;
+	private static final int M = 4;
+	private static final int N = 13;
 
 	@Test
 	public void test() {
